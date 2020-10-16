@@ -1,0 +1,11 @@
+{
+    "UUID": {
+        "port": 8081,
+        "type": "sensor", // "master", "controller", "algorithm"
+        "com": "COM2"
+    },
+    "gnss": {
+        "port": 8082,
+        "com": "COM3"
+    }
+}
